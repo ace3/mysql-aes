@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	mysql_aes "github.com/ace3/mysql-aes"
+	"github.com/ace3/mysql-aes"
 )
 
 func main() {
